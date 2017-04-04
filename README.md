@@ -1,2 +1,6 @@
 # learning-journal
-This is my journal of my journey into software developement
+learning-journal
+
+In this repo I will keep track of my daily journey into coding 201.
+
+This class is awesome, so far.....
