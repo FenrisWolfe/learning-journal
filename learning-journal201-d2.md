@@ -1,4 +1,7 @@
-Day two:  tensions are getting higher, the alphas are considering eating one or two of the betas.  I'm not sure where I stand on this, I'm on a diet. :O\
+# learning-journal Day two
+
+Day two:  tensions are getting higher, the alphas are considering eating one or two of the betas.  I'm not sure where I stand on this, I'm on a diet. :O|
+
 
 On the PLUS side, learning GIT, the CLI and code is fun.
 
