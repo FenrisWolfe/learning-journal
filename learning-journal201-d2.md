@@ -13,3 +13,5 @@ Today we are learning git and the repository associated to it online. This way w
 Coding the About me page makes me apprehensive, while yes, I have no problem speaking up in class, I am probably my own worse critic.  I suck at trying to define who I am as I have been struggling with this question a LONG time.
 
 That being said, I look forward to the challenge in the coding aspect of it.
+
+And if need be, break my diet.  I'm starving
